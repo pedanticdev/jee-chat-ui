@@ -22,7 +22,7 @@ const CodeBlock = ({language, children}) => {
 // Environment configuration
 const API_ENDPOINTS = {
     development: 'http://localhost:8080/chat/api/v1',
-    production: 'https://chat.jakarta101.com/chat/api/v1',
+    production: 'https://jakarta101.com/jee-docs/chat/api/v1',
 };
 
 // API configuration
